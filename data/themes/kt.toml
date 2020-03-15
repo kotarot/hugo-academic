@@ -1,0 +1,18 @@
+# Theme metadata
+name = "KT"
+
+# Is theme light or dark?
+light = true
+
+# Primary
+primary = "#f66397"
+
+# Menu
+menu_primary = "#141622"
+menu_text = "#fff"
+menu_text_active = "#fff"
+menu_title = "#fff"
+
+# Home sections
+home_section_odd = "#eee"
+home_section_even = "#fff"
